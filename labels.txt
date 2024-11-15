@@ -1,0 +1,8 @@
+0 akeic
+1 bcc
+2 bkl
+3 df
+4 mel
+5 non-infected
+6 nv
+7 vasc
